@@ -1,1 +1,1 @@
-# IBM-data-analyst-project
+# IBM-data-analyst-Capstone-project
